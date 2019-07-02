@@ -1,1 +1,8 @@
-a
+{
+ "sizeTolerance":"1024",
+ "trackingEntity":"Asset",
+ "devopsOrganizationName":"uifabric",
+ "devopsProjectName":"fabricpublic",
+ "devopsDropFolderName":"drop",
+ "devopsWebpackStatsArtifactName":"bundlesizes.json"
+}
